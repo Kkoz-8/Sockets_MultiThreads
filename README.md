@@ -14,3 +14,6 @@ then edit port etc in client code to match,
 and well...now you can send and receive messages from other clients connected to server.
 
 ..thats it...took me like a whole bloody week to figure this out. sigh. 
+
+OH also, github is weird. i need to watch a video on how to use this site. 
+worked on a decent amount of codes in 2020...shoulda uploaded...the hub seems like a great place to get assistance and feedback. 
