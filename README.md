@@ -1,6 +1,6 @@
 # Sockets_MultiThreads
 
-Learning how threads workusing python.
+Learning how threads work using python.
 
 Working with sockets and threads to create a simple server/client chat box.
 
